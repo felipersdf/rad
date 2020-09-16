@@ -38,8 +38,9 @@ This repository consists of storing the codes produced by the practical exercise
 
 ## :paperclip: Exercises
 
-|    Exercise    |                                                         Description                                                          |                               Link                                |
-| :------------: | :--------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------: |
-| Max Word Freq. | A program capable of reading a text file and determining the word (s) that appears most frequently on each line of the file. | [Link](https://github.com/felipersdf/rad/tree/master/MaxWordFreq) |
+|    Exercise     |                                                         Description                                                          |                                 Link                                 |
+| :-------------: | :--------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------: |
+| Max Word Freq.  | A program capable of reading a text file and determining the word (s) that appears most frequently on each line of the file. |  [Link](https://github.com/felipersdf/rad/tree/master/MaxWordFreq)   |
+| Account Example |                               A program which simulate simples transactions in a bank account.                               | [Link](https://github.com/felipersdf/rad/tree/master/AccountExample) |
 
 ---
